@@ -358,6 +358,7 @@ ONLY OPERATING ROOM PROCEDURES
   02FS3ZZ Fragmentation of Right Pulmonary Vein, Percutaneous Approach
   02FT3Z0 Fragmentation of Left Pulmonary Vein, Percutaneous Approach, Ultrasonic
   02FT3ZZ Fragmentation of Left Pulmonary Vein, Percutaneous Approach
+  02WY3DZ Revision of Intraluminal Device in Great Vessel, Percutaneous Approach
   03900ZX Drainage of Right Internal Mammary Artery, Open Approach, Diagnostic
   03904ZX Drainage of Right Internal Mammary Artery, Percutaneous Endoscopic Approach, Diagnostic
   03910ZX Drainage of Left Internal Mammary Artery, Open Approach, Diagnostic
@@ -530,11 +531,14 @@ ONLY OPERATING ROOM PROCEDURES
   03FB3ZZ Fragmentation of Right Radial Artery, Percutaneous Approach
   03FC3Z0 Fragmentation of Left Radial Artery, Percutaneous Approach, Ultrasonic
   03FC3ZZ Fragmentation of Left Radial Artery, Percutaneous Approach
+  03FG3Z0 Fragmentation of Intracranial Artery, Percutaneous Approach, Ultrasonic
+  03FG3ZZ Fragmentation of Intracranial Artery, Percutaneous Approach
   03FY3Z0 Fragmentation of Upper Artery, Percutaneous Approach, Ultrasonic
   03FY3ZZ Fragmentation of Upper Artery, Percutaneous Approach
   03WY07Z Revision of Autologous Tissue Substitute in Upper Artery, Open Approach
   03WY0KZ Revision of Nonautologous Tissue Substitute in Upper Artery, Open Approach
   03WY37Z Revision of Autologous Tissue Substitute in Upper Artery, Percutaneous Approach
+  03WY3DZ Revision of Intraluminal Device in Upper Artery, Percutaneous Approach
   03WY3KZ Revision of Nonautologous Tissue Substitute in Upper Artery, Percutaneous Approach
   03WY47Z Revision of Autologous Tissue Substitute in Upper Artery, Percutaneous Endoscopic Approach
   03WY4KZ Revision of Nonautologous Tissue Substitute in Upper Artery, Percutaneous Endoscopic Approach
@@ -875,6 +879,7 @@ ONLY OPERATING ROOM PROCEDURES
   04WY0JZ Revision of Synthetic Substitute in Lower Artery, Open Approach
   04WY0KZ Revision of Nonautologous Tissue Substitute in Lower Artery, Open Approach
   04WY37Z Revision of Autologous Tissue Substitute in Lower Artery, Percutaneous Approach
+  04WY3DZ Revision of Intraluminal Device in Lower Artery, Percutaneous Approach
   04WY3JZ Revision of Synthetic Substitute in Lower Artery, Percutaneous Approach
   04WY3KZ Revision of Nonautologous Tissue Substitute in Lower Artery, Percutaneous Approach
   04WY47Z Revision of Autologous Tissue Substitute in Lower Artery, Percutaneous Endoscopic Approach
@@ -1049,6 +1054,7 @@ ONLY OPERATING ROOM PROCEDURES
   05WY0JZ Revision of Synthetic Substitute in Upper Vein, Open Approach
   05WY0KZ Revision of Nonautologous Tissue Substitute in Upper Vein, Open Approach
   05WY37Z Revision of Autologous Tissue Substitute in Upper Vein, Percutaneous Approach
+  05WY3DZ Revision of Intraluminal Device in Upper Vein, Percutaneous Approach
   05WY3JZ Revision of Synthetic Substitute in Upper Vein, Percutaneous Approach
   05WY3KZ Revision of Nonautologous Tissue Substitute in Upper Vein, Percutaneous Approach
   05WY47Z Revision of Autologous Tissue Substitute in Upper Vein, Percutaneous Endoscopic Approach
@@ -1253,6 +1259,18 @@ ONLY OPERATING ROOM PROCEDURES
   06LY4CC Occlusion of Hemorrhoidal Plexus with Extraluminal Device, Percutaneous Endoscopic Approach
   06LY4DC Occlusion of Hemorrhoidal Plexus with Intraluminal Device, Percutaneous Endoscopic Approach
   06LY4ZC Occlusion of Hemorrhoidal Plexus, Percutaneous Endoscopic Approach
+  06LY7CC Occlusion of Hemorrhoidal Plexus with Extraluminal Device, Via Natural or Artificial Opening
+  06LY7CZ Occlusion of Lower Vein with Extraluminal Device, Via Natural or Artificial Opening
+  06LY7DC Occlusion of Hemorrhoidal Plexus with Intraluminal Device, Via Natural or Artificial Opening
+  06LY7DZ Occlusion of Lower Vein with Intraluminal Device, Via Natural or Artificial Opening
+  06LY7ZC Occlusion of Hemorrhoidal Plexus, Via Natural or Artificial Opening
+  06LY7ZZ Occlusion of Lower Vein, Via Natural or Artificial Opening
+  06LY8CC Occlusion of Hemorrhoidal Plexus with Extraluminal Device, Via Natural or Artificial Opening Endoscopic
+  06LY8CZ Occlusion of Lower Vein with Extraluminal Device, Via Natural or Artificial Opening Endoscopic
+  06LY8DC Occlusion of Hemorrhoidal Plexus with Intraluminal Device, Via Natural or Artificial Opening Endoscopic
+  06LY8DZ Occlusion of Lower Vein with Intraluminal Device, Via Natural or Artificial Opening Endoscopic
+  06LY8ZC Occlusion of Hemorrhoidal Plexus, Via Natural or Artificial Opening Endoscopic
+  06LY8ZZ Occlusion of Lower Vein, Via Natural or Artificial Opening Endoscopic
   06PY00Z Removal of Drainage Device from Lower Vein, Open Approach
   06PY02Z Removal of Monitoring Device from Lower Vein, Open Approach
   06PY03Z Removal of Infusion Device from Lower Vein, Open Approach
@@ -1285,6 +1303,7 @@ ONLY OPERATING ROOM PROCEDURES
   06WY0YZ Revision of Other Device in Lower Vein, Open Approach
   06WY37Z Revision of Autologous Tissue Substitute in Lower Vein, Percutaneous Approach
   06WY3CZ Revision of Extraluminal Device in Lower Vein, Percutaneous Approach
+  06WY3DZ Revision of Intraluminal Device in Lower Vein, Percutaneous Approach
   06WY3JZ Revision of Synthetic Substitute in Lower Vein, Percutaneous Approach
   06WY3KZ Revision of Nonautologous Tissue Substitute in Lower Vein, Percutaneous Approach
   06WY40Z Revision of Drainage Device in Lower Vein, Percutaneous Endoscopic Approach
@@ -3723,6 +3742,9 @@ ONLY OPERATING ROOM PROCEDURES
   0DNR4ZZ Release Anal Sphincter, Percutaneous Endoscopic Approach
   0DP643Z Removal of Infusion Device from Stomach, Percutaneous Endoscopic Approach
   0DP64CZ Removal of Extraluminal Device from Stomach, Percutaneous Endoscopic Approach
+  0DQ53ZZ Repair Esophagus, Percutaneous Approach
+  0DQ57ZZ Repair Esophagus, Via Natural or Artificial Opening
+  0DQ58ZZ Repair Esophagus, Via Natural or Artificial Opening Endoscopic
   0DQ64ZZ Repair Stomach, Percutaneous Endoscopic Approach
   0DQR0ZZ Repair Anal Sphincter, Open Approach
   0DQR3ZZ Repair Anal Sphincter, Percutaneous Approach
@@ -4062,32 +4084,36 @@ ONLY OPERATING ROOM PROCEDURES
   0J8J3ZZ Division of Right Hand Subcutaneous Tissue and Fascia, Percutaneous Approach
   0J8K0ZZ Division of Left Hand Subcutaneous Tissue and Fascia, Open Approach
   0J8K3ZZ Division of Left Hand Subcutaneous Tissue and Fascia, Percutaneous Approach
-  0J900ZZ Drainage of Scalp Subcutaneous Tissue and Fascia, Open Approach
-  0J940ZZ Drainage of Right Neck Subcutaneous Tissue and Fascia, Open Approach
-  0J950ZZ Drainage of Left Neck Subcutaneous Tissue and Fascia, Open Approach
-  0J960ZZ Drainage of Chest Subcutaneous Tissue and Fascia, Open Approach
-  0J970ZZ Drainage of Back Subcutaneous Tissue and Fascia, Open Approach
-  0J980ZZ Drainage of Abdomen Subcutaneous Tissue and Fascia, Open Approach
-  0J990ZZ Drainage of Buttock Subcutaneous Tissue and Fascia, Open Approach
-  0J9B0ZZ Drainage of Perineum Subcutaneous Tissue and Fascia, Open Approach
-  0J9C0ZZ Drainage of Pelvic Region Subcutaneous Tissue and Fascia, Open Approach
-  0J9D0ZZ Drainage of Right Upper Arm Subcutaneous Tissue and Fascia, Open Approach
-  0J9F0ZZ Drainage of Left Upper Arm Subcutaneous Tissue and Fascia, Open Approach
-  0J9G0ZZ Drainage of Right Lower Arm Subcutaneous Tissue and Fascia, Open Approach
-  0J9H0ZZ Drainage of Left Lower Arm Subcutaneous Tissue and Fascia, Open Approach
-  0J9J0ZZ Drainage of Right Hand Subcutaneous Tissue and Fascia, Open Approach
-  0J9K0ZZ Drainage of Left Hand Subcutaneous Tissue and Fascia, Open Approach
-  0J9L0ZZ Drainage of Right Upper Leg Subcutaneous Tissue and Fascia, Open Approach
-  0J9M0ZZ Drainage of Left Upper Leg Subcutaneous Tissue and Fascia, Open Approach
-  0J9N0ZZ Drainage of Right Lower Leg Subcutaneous Tissue and Fascia, Open Approach
-  0J9P0ZZ Drainage of Left Lower Leg Subcutaneous Tissue and Fascia, Open Approach
-  0J9Q0ZZ Drainage of Right Foot Subcutaneous Tissue and Fascia, Open Approach
-  0J9R0ZZ Drainage of Left Foot Subcutaneous Tissue and Fascia, Open Approach
   0JB13ZZ Excision of Face Subcutaneous Tissue and Fascia, Percutaneous Approach
+  0JB60ZZ Excision of Chest Subcutaneous Tissue and Fascia, Open Approach
+  0JB70ZZ Excision of Back Subcutaneous Tissue and Fascia, Open Approach
+  0JB80ZZ Excision of Abdomen Subcutaneous Tissue and Fascia, Open Approach
   0JBJ0ZZ Excision of Right Hand Subcutaneous Tissue and Fascia, Open Approach
   0JBJ3ZZ Excision of Right Hand Subcutaneous Tissue and Fascia, Percutaneous Approach
   0JBK0ZZ Excision of Left Hand Subcutaneous Tissue and Fascia, Open Approach
   0JBK3ZZ Excision of Left Hand Subcutaneous Tissue and Fascia, Percutaneous Approach
+  0JC00ZZ Extirpation of Matter from Scalp Subcutaneous Tissue and Fascia, Open Approach
+  0JC10ZZ Extirpation of Matter from Face Subcutaneous Tissue and Fascia, Open Approach
+  0JC40ZZ Extirpation of Matter from Right Neck Subcutaneous Tissue and Fascia, Open Approach
+  0JC50ZZ Extirpation of Matter from Left Neck Subcutaneous Tissue and Fascia, Open Approach
+  0JC60ZZ Extirpation of Matter from Chest Subcutaneous Tissue and Fascia, Open Approach
+  0JC70ZZ Extirpation of Matter from Back Subcutaneous Tissue and Fascia, Open Approach
+  0JC80ZZ Extirpation of Matter from Abdomen Subcutaneous Tissue and Fascia, Open Approach
+  0JC90ZZ Extirpation of Matter from Buttock Subcutaneous Tissue and Fascia, Open Approach
+  0JCB0ZZ Extirpation of Matter from Perineum Subcutaneous Tissue and Fascia, Open Approach
+  0JCC0ZZ Extirpation of Matter from Pelvic Region Subcutaneous Tissue and Fascia, Open Approach
+  0JCD0ZZ Extirpation of Matter from Right Upper Arm Subcutaneous Tissue and Fascia, Open Approach
+  0JCF0ZZ Extirpation of Matter from Left Upper Arm Subcutaneous Tissue and Fascia, Open Approach
+  0JCG0ZZ Extirpation of Matter from Right Lower Arm Subcutaneous Tissue and Fascia, Open Approach
+  0JCH0ZZ Extirpation of Matter from Left Lower Arm Subcutaneous Tissue and Fascia, Open Approach
+  0JCJ0ZZ Extirpation of Matter from Right Hand Subcutaneous Tissue and Fascia, Open Approach
+  0JCK0ZZ Extirpation of Matter from Left Hand Subcutaneous Tissue and Fascia, Open Approach
+  0JCL0ZZ Extirpation of Matter from Right Upper Leg Subcutaneous Tissue and Fascia, Open Approach
+  0JCM0ZZ Extirpation of Matter from Left Upper Leg Subcutaneous Tissue and Fascia, Open Approach
+  0JCN0ZZ Extirpation of Matter from Right Lower Leg Subcutaneous Tissue and Fascia, Open Approach
+  0JCP0ZZ Extirpation of Matter from Left Lower Leg Subcutaneous Tissue and Fascia, Open Approach
+  0JCQ0ZZ Extirpation of Matter from Right Foot Subcutaneous Tissue and Fascia, Open Approach
+  0JCR0ZZ Extirpation of Matter from Left Foot Subcutaneous Tissue and Fascia, Open Approach
   0JH60YZ Insertion of Other Device into Chest Subcutaneous Tissue and Fascia, Open Approach
   0JHS01Z Insertion of Radioactive Element into Head and Neck Subcutaneous Tissue and Fascia, Open Approach
   0JHS0YZ Insertion of Other Device into Head and Neck Subcutaneous Tissue and Fascia, Open Approach
@@ -4202,6 +4228,8 @@ ONLY OPERATING ROOM PROCEDURES
   0K5W0ZZ Destruction of Left Foot Muscle, Open Approach
   0K5W3ZZ Destruction of Left Foot Muscle, Percutaneous Approach
   0K5W4ZZ Destruction of Left Foot Muscle, Percutaneous Endoscopic Approach
+  0K847ZZ Division of Tongue, Palate, Pharynx Muscle, Via Natural or Artificial Opening
+  0K848ZZ Division of Tongue, Palate, Pharynx Muscle, Via Natural or Artificial Opening Endoscopic
   0K9000Z Drainage of Head Muscle with Drainage Device, Open Approach
   0K900ZX Drainage of Head Muscle, Open Approach, Diagnostic
   0K900ZZ Drainage of Head Muscle, Open Approach
@@ -6717,16 +6745,22 @@ ONLY OPERATING ROOM PROCEDURES
   0QBM3ZZ Excision of Left Tarsal, Percutaneous Approach
   0QBM4ZX Excision of Left Tarsal, Percutaneous Endoscopic Approach, Diagnostic
   0QBM4ZZ Excision of Left Tarsal, Percutaneous Endoscopic Approach
+  0QBN0Z2 Excision of Right Metatarsal, Sesamoid Bone(s) 1st Toe, Open Approach
   0QBN0ZX Excision of Right Metatarsal, Open Approach, Diagnostic
   0QBN0ZZ Excision of Right Metatarsal, Open Approach
+  0QBN3Z2 Excision of Right Metatarsal, Sesamoid Bone(s) 1st Toe, Percutaneous Approach
   0QBN3ZX Excision of Right Metatarsal, Percutaneous Approach, Diagnostic
   0QBN3ZZ Excision of Right Metatarsal, Percutaneous Approach
+  0QBN4Z2 Excision of Right Metatarsal, Sesamoid Bone(s) 1st Toe, Percutaneous Endoscopic Approach
   0QBN4ZX Excision of Right Metatarsal, Percutaneous Endoscopic Approach, Diagnostic
   0QBN4ZZ Excision of Right Metatarsal, Percutaneous Endoscopic Approach
+  0QBP0Z2 Excision of Left Metatarsal, Sesamoid Bone(s) 1st Toe, Open Approach
   0QBP0ZX Excision of Left Metatarsal, Open Approach, Diagnostic
   0QBP0ZZ Excision of Left Metatarsal, Open Approach
+  0QBP3Z2 Excision of Left Metatarsal, Sesamoid Bone(s) 1st Toe, Percutaneous Approach
   0QBP3ZX Excision of Left Metatarsal, Percutaneous Approach, Diagnostic
   0QBP3ZZ Excision of Left Metatarsal, Percutaneous Approach
+  0QBP4Z2 Excision of Left Metatarsal, Sesamoid Bone(s) 1st Toe, Percutaneous Endoscopic Approach
   0QBP4ZX Excision of Left Metatarsal, Percutaneous Endoscopic Approach, Diagnostic
   0QBP4ZZ Excision of Left Metatarsal, Percutaneous Endoscopic Approach
   0QBQ0ZX Excision of Right Toe Phalanx, Open Approach, Diagnostic
@@ -7230,6 +7264,26 @@ ONLY OPERATING ROOM PROCEDURES
   0RGX03Z Fusion of Left Finger Phalangeal Joint with Sustained Compression Internal Fixation Device, Open Approach
   0RGX33Z Fusion of Left Finger Phalangeal Joint with Sustained Compression Internal Fixation Device, Percutaneous Approach
   0RGX43Z Fusion of Left Finger Phalangeal Joint with Sustained Compression Internal Fixation Device, Percutaneous Endoscopic Approach
+  0RHJ08Z Insertion of Spacer into Right Shoulder Joint, Open Approach
+  0RHJ48Z Insertion of Spacer into Right Shoulder Joint, Percutaneous Endoscopic Approach
+  0RHK08Z Insertion of Spacer into Left Shoulder Joint, Open Approach
+  0RHK48Z Insertion of Spacer into Left Shoulder Joint, Percutaneous Endoscopic Approach
+  0RPJ08Z Removal of Spacer from Right Shoulder Joint, Open Approach
+  0RPJ0J6 Removal of Synthetic Substitute from Right Shoulder Joint, Humeral Surface, Open Approach
+  0RPJ0J7 Removal of Synthetic Substitute from Right Shoulder Joint, Glenoid Surface, Open Approach
+  0RPJ3J6 Removal of Synthetic Substitute from Right Shoulder Joint, Humeral Surface, Percutaneous Approach
+  0RPJ3J7 Removal of Synthetic Substitute from Right Shoulder Joint, Glenoid Surface, Percutaneous Approach
+  0RPJ48Z Removal of Spacer from Right Shoulder Joint, Percutaneous Endoscopic Approach
+  0RPJ4J6 Removal of Synthetic Substitute from Right Shoulder Joint, Humeral Surface, Percutaneous Endoscopic Approach
+  0RPJ4J7 Removal of Synthetic Substitute from Right Shoulder Joint, Glenoid Surface, Percutaneous Endoscopic Approach
+  0RPK08Z Removal of Spacer from Left Shoulder Joint, Open Approach
+  0RPK0J6 Removal of Synthetic Substitute from Left Shoulder Joint, Humeral Surface, Open Approach
+  0RPK0J7 Removal of Synthetic Substitute from Left Shoulder Joint, Glenoid Surface, Open Approach
+  0RPK3J6 Removal of Synthetic Substitute from Left Shoulder Joint, Humeral Surface, Percutaneous Approach
+  0RPK3J7 Removal of Synthetic Substitute from Left Shoulder Joint, Glenoid Surface, Percutaneous Approach
+  0RPK48Z Removal of Spacer from Left Shoulder Joint, Percutaneous Endoscopic Approach
+  0RPK4J6 Removal of Synthetic Substitute from Left Shoulder Joint, Humeral Surface, Percutaneous Endoscopic Approach
+  0RPK4J7 Removal of Synthetic Substitute from Left Shoulder Joint, Glenoid Surface, Percutaneous Endoscopic Approach
   0RQE0ZZ Repair Right Sternoclavicular Joint, Open Approach
   0RQE3ZZ Repair Right Sternoclavicular Joint, Percutaneous Approach
   0RQE4ZZ Repair Right Sternoclavicular Joint, Percutaneous Endoscopic Approach
@@ -7302,6 +7356,18 @@ ONLY OPERATING ROOM PROCEDURES
   0RUK47Z Supplement Left Shoulder Joint with Autologous Tissue Substitute, Percutaneous Endoscopic Approach
   0RUK4JZ Supplement Left Shoulder Joint with Synthetic Substitute, Percutaneous Endoscopic Approach
   0RUK4KZ Supplement Left Shoulder Joint with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach
+  0RWJ0J6 Revision of Synthetic Substitute in Right Shoulder Joint, Humeral Surface, Open Approach
+  0RWJ0J7 Revision of Synthetic Substitute in Right Shoulder Joint, Glenoid Surface, Open Approach
+  0RWJ3J6 Revision of Synthetic Substitute in Right Shoulder Joint, Humeral Surface, Percutaneous Approach
+  0RWJ3J7 Revision of Synthetic Substitute in Right Shoulder Joint, Glenoid Surface, Percutaneous Approach
+  0RWJ4J6 Revision of Synthetic Substitute in Right Shoulder Joint, Humeral Surface, Percutaneous Endoscopic Approach
+  0RWJ4J7 Revision of Synthetic Substitute in Right Shoulder Joint, Glenoid Surface, Percutaneous Endoscopic Approach
+  0RWK0J6 Revision of Synthetic Substitute in Left Shoulder Joint, Humeral Surface, Open Approach
+  0RWK0J7 Revision of Synthetic Substitute in Left Shoulder Joint, Glenoid Surface, Open Approach
+  0RWK3J6 Revision of Synthetic Substitute in Left Shoulder Joint, Humeral Surface, Percutaneous Approach
+  0RWK3J7 Revision of Synthetic Substitute in Left Shoulder Joint, Glenoid Surface, Percutaneous Approach
+  0RWK4J6 Revision of Synthetic Substitute in Left Shoulder Joint, Humeral Surface, Percutaneous Endoscopic Approach
+  0RWK4J7 Revision of Synthetic Substitute in Left Shoulder Joint, Glenoid Surface, Percutaneous Endoscopic Approach
   0S5C0ZZ Destruction of Right Knee Joint, Open Approach
   0S5C3ZZ Destruction of Right Knee Joint, Percutaneous Approach
   0S5C4ZZ Destruction of Right Knee Joint, Percutaneous Endoscopic Approach
@@ -7752,6 +7818,10 @@ ONLY OPERATING ROOM PROCEDURES
   0SRQ07Z Replacement of Left Toe Phalangeal Joint with Autologous Tissue Substitute, Open Approach
   0SRQ0JZ Replacement of Left Toe Phalangeal Joint with Synthetic Substitute, Open Approach
   0SRQ0KZ Replacement of Left Toe Phalangeal Joint with Nonautologous Tissue Substitute, Open Approach
+  0SS734Z Reposition Right Sacroiliac Joint with Internal Fixation Device, Percutaneous Approach
+  0SS834Z Reposition Left Sacroiliac Joint with Internal Fixation Device, Percutaneous Approach
+  0SS934Z Reposition Right Hip Joint with Internal Fixation Device, Percutaneous Approach
+  0SSB34Z Reposition Left Hip Joint with Internal Fixation Device, Percutaneous Approach
   0STH0ZZ Resection of Right Tarsal Joint, Open Approach
   0STJ0ZZ Resection of Left Tarsal Joint, Open Approach
   0STK0ZZ Resection of Right Tarsometatarsal Joint, Open Approach
@@ -8024,6 +8094,7 @@ ONLY OPERATING ROOM PROCEDURES
   0T9C7ZX Drainage of Bladder Neck, Via Natural or Artificial Opening, Diagnostic
   0T9C8ZX Drainage of Bladder Neck, Via Natural or Artificial Opening Endoscopic, Diagnostic
   0T9D00Z Drainage of Urethra with Drainage Device, Open Approach
+  0T9D0ZZ Drainage of Urethra, Open Approach
   0T9D40Z Drainage of Urethra with Drainage Device, Percutaneous Endoscopic Approach
   0TBB3ZX Excision of Bladder, Percutaneous Approach, Diagnostic
   0TBB4ZX Excision of Bladder, Percutaneous Endoscopic Approach, Diagnostic
@@ -8038,19 +8109,15 @@ ONLY OPERATING ROOM PROCEDURES
   0TBC8ZX Excision of Bladder Neck, Via Natural or Artificial Opening Endoscopic, Diagnostic
   0TBC8ZZ Excision of Bladder Neck, Via Natural or Artificial Opening Endoscopic
   0TC37ZZ Extirpation of Matter from Right Kidney Pelvis, Via Natural or Artificial Opening
-  0TC38ZZ Extirpation of Matter from Right Kidney Pelvis, Via Natural or Artificial Opening Endoscopic
   0TC47ZZ Extirpation of Matter from Left Kidney Pelvis, Via Natural or Artificial Opening
-  0TC48ZZ Extirpation of Matter from Left Kidney Pelvis, Via Natural or Artificial Opening Endoscopic
   0TC60ZZ Extirpation of Matter from Right Ureter, Open Approach
   0TC63ZZ Extirpation of Matter from Right Ureter, Percutaneous Approach
   0TC64ZZ Extirpation of Matter from Right Ureter, Percutaneous Endoscopic Approach
   0TC67ZZ Extirpation of Matter from Right Ureter, Via Natural or Artificial Opening
-  0TC68ZZ Extirpation of Matter from Right Ureter, Via Natural or Artificial Opening Endoscopic
   0TC70ZZ Extirpation of Matter from Left Ureter, Open Approach
   0TC73ZZ Extirpation of Matter from Left Ureter, Percutaneous Approach
   0TC74ZZ Extirpation of Matter from Left Ureter, Percutaneous Endoscopic Approach
   0TC77ZZ Extirpation of Matter from Left Ureter, Via Natural or Artificial Opening
-  0TC78ZZ Extirpation of Matter from Left Ureter, Via Natural or Artificial Opening Endoscopic
   0TCD0ZZ Extirpation of Matter from Urethra, Open Approach
   0TCD3ZZ Extirpation of Matter from Urethra, Percutaneous Approach
   0TCD4ZZ Extirpation of Matter from Urethra, Percutaneous Endoscopic Approach
@@ -8367,8 +8434,6 @@ ONLY OPERATING ROOM PROCEDURES
   0U9K7ZX Drainage of Hymen, Via Natural or Artificial Opening, Diagnostic
   0U9K8ZX Drainage of Hymen, Via Natural or Artificial Opening Endoscopic, Diagnostic
   0U9KXZX Drainage of Hymen, External Approach, Diagnostic
-  0U9L0ZX Drainage of Vestibular Gland, Open Approach, Diagnostic
-  0U9LXZX Drainage of Vestibular Gland, External Approach, Diagnostic
   0U9M00Z Drainage of Vulva with Drainage Device, Open Approach
   0U9M0ZX Drainage of Vulva, Open Approach, Diagnostic
   0U9M0ZZ Drainage of Vulva, Open Approach
@@ -9125,6 +9190,10 @@ ONLY OPERATING ROOM PROCEDURES
   0WC30ZZ Extirpation of Matter from Oral Cavity and Throat, Open Approach
   0WC33ZZ Extirpation of Matter from Oral Cavity and Throat, Percutaneous Approach
   0WC34ZZ Extirpation of Matter from Oral Cavity and Throat, Percutaneous Endoscopic Approach
+  0WC40ZZ Extirpation of Matter from Upper Jaw, Open Approach
+  0WC44ZZ Extirpation of Matter from Upper Jaw, Percutaneous Endoscopic Approach
+  0WC50ZZ Extirpation of Matter from Lower Jaw, Open Approach
+  0WC54ZZ Extirpation of Matter from Lower Jaw, Percutaneous Endoscopic Approach
   0WF30ZZ Fragmentation in Oral Cavity and Throat, Open Approach
   0WF33ZZ Fragmentation in Oral Cavity and Throat, Percutaneous Approach
   0WF34ZZ Fragmentation in Oral Cavity and Throat, Percutaneous Endoscopic Approach
@@ -10296,11 +10365,41 @@ ONLY OPERATING ROOM PROCEDURES
   4A060BZ Measurement of Lymphatic Pressure, Open Approach
   4A1605Z Monitoring of Lymphatic Flow, Open Approach
   4A160BZ Monitoring of Lymphatic Pressure, Open Approach
+  D0Y0KZZ Laser Interstitial Thermal Therapy of Brain
+  D0Y1KZZ Laser Interstitial Thermal Therapy of Brain Stem
+  D0Y6KZZ Laser Interstitial Thermal Therapy of Spinal Cord
+  D0Y7KZZ Laser Interstitial Thermal Therapy of Peripheral Nerve
+  DBY0KZZ Laser Interstitial Thermal Therapy of Trachea
+  DBY1KZZ Laser Interstitial Thermal Therapy of Bronchus
+  DBY2KZZ Laser Interstitial Thermal Therapy of Lung
+  DBY5KZZ Laser Interstitial Thermal Therapy of Pleura
+  DBY6KZZ Laser Interstitial Thermal Therapy of Mediastinum
+  DBY7KZZ Laser Interstitial Thermal Therapy of Chest Wall
+  DBY8KZZ Laser Interstitial Thermal Therapy of Diaphragm
+  DDY0KZZ Laser Interstitial Thermal Therapy of Esophagus
+  DDY1KZZ Laser Interstitial Thermal Therapy of Stomach
+  DDY2KZZ Laser Interstitial Thermal Therapy of Duodenum
+  DDY3KZZ Laser Interstitial Thermal Therapy of Jejunum
+  DDY4KZZ Laser Interstitial Thermal Therapy of Ileum
+  DDY5KZZ Laser Interstitial Thermal Therapy of Colon
+  DDY7KZZ Laser Interstitial Thermal Therapy of Rectum
+  DDY8KZZ Laser Interstitial Thermal Therapy of Anus
+  DFY0KZZ Laser Interstitial Thermal Therapy of Liver
+  DFY1KZZ Laser Interstitial Thermal Therapy of Gallbladder
+  DFY2KZZ Laser Interstitial Thermal Therapy of Bile Ducts
+  DFY3KZZ Laser Interstitial Thermal Therapy of Pancreas
+  DGY0KZZ Laser Interstitial Thermal Therapy of Pituitary Gland
+  DGY1KZZ Laser Interstitial Thermal Therapy of Pineal Body
+  DGY2KZZ Laser Interstitial Thermal Therapy of Adrenal Glands
+  DGY4KZZ Laser Interstitial Thermal Therapy of Parathyroid Glands
+  DGY5KZZ Laser Interstitial Thermal Therapy of Thyroid
+  DMY0KZZ Laser Interstitial Thermal Therapy of Left Breast
+  DMY1KZZ Laser Interstitial Thermal Therapy of Right Breast
+  DVY0KZZ Laser Interstitial Thermal Therapy of Prostate
   XNU0356 Supplement Lumbar Vertebra with Mechanically Expandable (Paired) Synthetic Substitute, Percutaneous Approach, New Technology Group 6
   XNU4356 Supplement Thoracic Vertebra with Mechanically Expandable (Paired) Synthetic Substitute, Percutaneous Approach, New Technology Group 6
-  XR2G021 Monitoring of Right Knee Joint using Intraoperative Knee Replacement Sensor, Open Approach, New Technology Group 1
-  XR2H021 Monitoring of Left Knee Joint using Intraoperative Knee Replacement Sensor, Open Approach, New Technology Group 1
   XV508A4 Destruction of Prostate using Robotic Waterjet Ablation, Via Natural or Artificial Opening Endoscopic, New Technology Group 4
+  XW0Q316 Introduction of Eladocagene exuparvovec into Cranial Cavity and Brain, Percutaneous Approach, New Technology Group 6
 
 
 
@@ -10625,6 +10724,7 @@ diagnosis in the corresponding CC Exclusion List in Appendix C.
   A790    Trench fever
   A791    Rickettsialpox due to Rickettsia akari
   A7981   Rickettsiosis due to Ehrlichia sennetsu
+  A7982   Anaplasmosis [A. phagocytophilum]
   A7989   Other specified rickettsioses
   A799    Rickettsiosis, unspecified
   A8100   Creutzfeldt-Jakob disease, unspecified
@@ -11081,6 +11181,7 @@ diagnosis in the corresponding CC Exclusion List in Appendix C.
   C49A9   Gastrointestinal stromal tumor of other sites
   C561    Malignant neoplasm of right ovary
   C562    Malignant neoplasm of left ovary
+  C563    Malignant neoplasm of bilateral ovaries
   C569    Malignant neoplasm of unspecified ovary
   C641    Malignant neoplasm of right kidney, except renal pelvis
   C642    Malignant neoplasm of left kidney, except renal pelvis
@@ -11176,6 +11277,7 @@ diagnosis in the corresponding CC Exclusion List in Appendix C.
   C7960   Secondary malignant neoplasm of unspecified ovary
   C7961   Secondary malignant neoplasm of right ovary
   C7962   Secondary malignant neoplasm of left ovary
+  C7963   Secondary malignant neoplasm of bilateral ovaries
   C7970   Secondary malignant neoplasm of unspecified adrenal gland
   C7971   Secondary malignant neoplasm of right adrenal gland
   C7972   Secondary malignant neoplasm of left adrenal gland
@@ -11494,6 +11596,7 @@ diagnosis in the corresponding CC Exclusion List in Appendix C.
   C8477   Anaplastic large cell lymphoma, ALK-negative, spleen
   C8478   Anaplastic large cell lymphoma, ALK-negative, lymph nodes of multiple sites
   C8479   Anaplastic large cell lymphoma, ALK-negative, extranodal and solid organ sites
+  C847A   Anaplastic large cell lymphoma, ALK-negative, breast
   C8490   Mature T/NK-cell lymphomas, unspecified, unspecified site
   C8491   Mature T/NK-cell lymphomas, unspecified, lymph nodes of head, face, and neck
   C8492   Mature T/NK-cell lymphomas, unspecified, intrathoracic lymph nodes
@@ -12391,7 +12494,7 @@ diagnosis in the corresponding CC Exclusion List in Appendix C.
   G6281   Critical illness polyneuropathy
   G7080   Lambert-Eaton syndrome, unspecified
   G7081   Lambert-Eaton syndrome in disease classified elsewhere
-  G7120   Congenital myopathy, unspecifed
+  G7120   Congenital myopathy, unspecified
   G7121   Nemaline myopathy
   G71220  X-linked myotubular myopathy
   G71228  Other centronuclear myopathy
@@ -12442,6 +12545,9 @@ diagnosis in the corresponding CC Exclusion List in Appendix C.
   G913    Post-traumatic hydrocephalus, unspecified
   G918    Other hydrocephalus
   G919    Hydrocephalus, unspecified
+  G9203   Immune effector cell-associated neurotoxicity syndrome, grade 3
+  G9204   Immune effector cell-associated neurotoxicity syndrome, grade 4
+  G9205   Immune effector cell-associated neurotoxicity syndrome, grade 5
   G931    Anoxic brain damage, not elsewhere classified
   G9340   Encephalopathy, unspecified
   G9349   Other encephalopathy
@@ -12880,6 +12986,7 @@ diagnosis in the corresponding CC Exclusion List in Appendix C.
   I5042   Chronic combined systolic (congestive) and diastolic (congestive) heart failure
   I510    Cardiac septal defect, acquired
   I5181   Takotsubo syndrome
+  I5A     Non-ischemic myocardial injury (non-traumatic)
   I629    Nontraumatic intracranial hemorrhage, unspecified
   I673    Progressive vascular leukoencephalopathy
   I674    Hypertensive encephalopathy
@@ -14173,7 +14280,8 @@ diagnosis in the corresponding CC Exclusion List in Appendix C.
   M3399   Dermatopolymyositis, unspecified with other organ involvement
   M3481   Systemic sclerosis with lung involvement
   M3482   Systemic sclerosis with myopathy
-  M3503   Sicca syndrome with myopathy
+  M3503   Sjogren syndrome with myopathy
+  M3507   Sjogren syndrome with central nervous system involvement
   M351    Other overlap syndromes
   M352    Behcet's disease
   M355    Multifocal fibrosclerosis
@@ -24979,7 +25087,7 @@ diagnosis in the corresponding CC Exclusion List in Appendix C.
   Z48280  Encounter for aftercare following heart-lung transplant
   Z48290  Encounter for aftercare following bone marrow transplant
   Z681    Body mass index [BMI] 19.9 or less, adult
-  Z6841   Body mass index [BMI]40.0-44.9, adult
+  Z6841   Body mass index [BMI] 40.0-44.9, adult
   Z6842   Body mass index [BMI] 45.0-49.9, adult
   Z6843   Body mass index [BMI] 50.0-59.9, adult
   Z6844   Body mass index [BMI] 60.0-69.9, adult
@@ -25266,6 +25374,7 @@ discharged alive, otherwise they will be assigned as a non CC
   G0432   Postimmunization acute necrotizing hemorrhagic encephalopathy
   G0439   Other acute necrotizing hemorrhagic encephalopathy
   G0481   Other encephalitis and encephalomyelitis
+  G0482   Acute flaccid myelitis
   G0489   Other myelitis
   G0490   Encephalitis and encephalomyelitis, unspecified
   G0491   Myelitis, unspecified
@@ -25289,7 +25398,8 @@ discharged alive, otherwise they will be assigned as a non CC
   G8253   Quadriplegia, C5-C7 complete
   G8254   Quadriplegia, C5-C7 incomplete
   G835    Locked-in state
-  G92     Toxic encephalopathy
+  G928    Other toxic encephalopathy
+  G929    Unspecified toxic encephalopathy
   G9341   Metabolic encephalopathy
   G935    Compression of brain
   G936    Cerebral edema
@@ -25759,7 +25869,9 @@ discharged alive, otherwise they will be assigned as a non CC
   L89894  Pressure ulcer of other site, stage 4
   L8993   Pressure ulcer of unspecified site, stage 3
   L8994   Pressure ulcer of unspecified site, stage 4
-  M311    Thrombotic microangiopathy
+  M3110   Thrombotic microangiopathy, unspecified
+  M3111   Hematopoietic stem cell transplantation-associated thrombotic microangiopathy [HSCT-TMA]
+  M3119   Other thrombotic microangiopathy
   M726    Necrotizing fasciitis
   N000    Acute nephritic syndrome with minor glomerular abnormality
   N001    Acute nephritic syndrome with focal and segmental glomerular lesions
@@ -26352,6 +26464,8 @@ discharged alive, otherwise they will be assigned as a non CC
   S069X6A Unspecified intracranial injury with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, initial encounter
   S069X7A Unspecified intracranial injury with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter
   S069X8A Unspecified intracranial injury with loss of consciousness of any duration with death due to other cause prior to regaining consciousness, initial encounter
+  S06A0XA Traumatic brain compression without herniation, initial encounter
+  S06A1XA Traumatic brain compression with herniation, initial encounter
   S11011A Laceration without foreign body of larynx, initial encounter
   S11012A Laceration with foreign body of larynx, initial encounter
   S11013A Puncture wound without foreign body of larynx, initial encounter
@@ -33422,12 +33536,24 @@ PROCEDURES
   XRG80F3  Fusion of 8 or more Thoracic Vertebral Joints using Radiolucent Porous Interbody Fusion Device, Open Approach, New Technology Group 3
   XRGA092  Fusion of Thoracolumbar Vertebral Joint using Nanotextured Surface Interbody Fusion Device, Open Approach, New Technology Group 2
   XRGA0F3  Fusion of Thoracolumbar Vertebral Joint using Radiolucent Porous Interbody Fusion Device, Open Approach, New Technology Group 3
+  XRGA0R7  Fusion of Thoracolumbar Vertebral Joint using Customizable Interbody Fusion Device, Open Approach, New Technology Group 7
+  XRGA3R7  Fusion of Thoracolumbar Vertebral Joint using Customizable Interbody Fusion Device, Percutaneous Approach, New Technology Group 7
+  XRGA4R7  Fusion of Thoracolumbar Vertebral Joint using Customizable Interbody Fusion Device, Percutaneous Endoscopic Approach, New Technology Group 7
   XRGB092  Fusion of Lumbar Vertebral Joint using Nanotextured Surface Interbody Fusion Device, Open Approach, New Technology Group 2
   XRGB0F3  Fusion of Lumbar Vertebral Joint using Radiolucent Porous Interbody Fusion Device, Open Approach, New Technology Group 3
+  XRGB0R7  Fusion of Lumbar Vertebral Joint using Customizable Interbody Fusion Device, Open Approach, New Technology Group 7
+  XRGB3R7  Fusion of Lumbar Vertebral Joint using Customizable Interbody Fusion Device, Percutaneous Approach, New Technology Group 7
+  XRGB4R7  Fusion of Lumbar Vertebral Joint using Customizable Interbody Fusion Device, Percutaneous Endoscopic Approach, New Technology Group 7
   XRGC092  Fusion of 2 or more Lumbar Vertebral Joints using Nanotextured Surface Interbody Fusion Device, Open Approach, New Technology Group 2
   XRGC0F3  Fusion of 2 or more Lumbar Vertebral Joints using Radiolucent Porous Interbody Fusion Device, Open Approach, New Technology Group 3
+  XRGC0R7  Fusion of 2 or more Lumbar Vertebral Joints using Customizable Interbody Fusion Device, Open Approach, New Technology Group 7
+  XRGC3R7  Fusion of 2 or more Lumbar Vertebral Joints using Customizable Interbody Fusion Device, Percutaneous Approach, New Technology Group 7
+  XRGC4R7  Fusion of 2 or more Lumbar Vertebral Joints using Customizable Interbody Fusion Device, Percutaneous Endoscopic Approach, New Technology Group 7
   XRGD092  Fusion of Lumbosacral Joint using Nanotextured Surface Interbody Fusion Device, Open Approach, New Technology Group 2
   XRGD0F3  Fusion of Lumbosacral Joint using Radiolucent Porous Interbody Fusion Device, Open Approach, New Technology Group 3
+  XRGD0R7  Fusion of Lumbosacral Joint using Customizable Interbody Fusion Device, Open Approach, New Technology Group 7
+  XRGD3R7  Fusion of Lumbosacral Joint using Customizable Interbody Fusion Device, Percutaneous Approach, New Technology Group 7
+  XRGD4R7  Fusion of Lumbosacral Joint using Customizable Interbody Fusion Device, Percutaneous Endoscopic Approach, New Technology Group 7
 
 NON-OPERATING ROOM PROCEDURES
 0RQEXZZ* Repair Right Sternoclavicular Joint, External Approach
