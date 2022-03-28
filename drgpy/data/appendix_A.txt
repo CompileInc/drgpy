@@ -1,5 +1,5 @@
 :======================================================================:
-|     Appendix A List of MS-DRGs Version 39.0     |
+|     Appendix A List of MS-DRGs Version 39.1     |
 :======================================================================:
 
 Appendix A contains a list of each MS-DRG with a specification of the
